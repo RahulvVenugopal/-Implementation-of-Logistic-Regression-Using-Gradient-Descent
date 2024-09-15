@@ -72,10 +72,10 @@ print("Predicted Result:",y_prednew)
 ```
 
 ## Output:
-# ACCURACY,ACTUAL AND PREDICTED VALUES:
+## ACCURACY,ACTUAL AND PREDICTED VALUES:
 ![image](https://github.com/user-attachments/assets/9b67d591-8b4d-4664-8d73-1878592373dd)
 
-# PREDICTED RESULT:
+## PREDICTED RESULT:
 ![image](https://github.com/user-attachments/assets/1c45a476-aeb8-48f2-9dd5-7f4c0a0c4814)
 
 
